@@ -1,3 +1,3 @@
-# Oh, hello.
+# おはよう
 
 old boomer anime pianist
