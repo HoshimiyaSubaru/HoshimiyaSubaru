@@ -1,3 +1,3 @@
 # おはよう
 
-old boomer anime pianist
+Haruka Kasugano best man.
