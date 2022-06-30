@@ -1,3 +1,3 @@
 # おはよう
 
-Haruka Kasugano best man.
+``Currently developing the next Tonkotsu``
