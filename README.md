@@ -2,6 +2,7 @@
 
 - DiscordJS Enthusiast
 - Bot Hobbyist
+- Learning Python, TypeScript, and C++
 
 ### Languages and Tools:
 
