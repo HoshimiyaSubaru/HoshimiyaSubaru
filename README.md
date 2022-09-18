@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://count.getloli.com/get/@starcraft66?theme=gelbooru" />
+  <img src="https://count.getloli.com/get/@kisuzume?theme=gelbooru" />
 </p>
 
 ### Kisuzume (About Me)
