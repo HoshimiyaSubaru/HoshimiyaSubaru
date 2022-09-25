@@ -5,7 +5,7 @@
 
 ### Kisuzume (づ｡◕‿‿◕｡)づ
 
-- DiscordJS Enthusiast
+- Discord API Enthusiast
 - Bot Hobbyist
 - Learning Python, TypeScript, and C++
 
