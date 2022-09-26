@@ -7,7 +7,7 @@
 
 - Discord API Enthusiast
 - SkriptLang Hobbyist
-- Learning Python, TypeScript, and C++
+- Finding Catgirls to Jerk Off On
 
 ### Languages and Tools:
 
