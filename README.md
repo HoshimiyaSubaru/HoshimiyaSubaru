@@ -3,12 +3,6 @@
   <img src="https://count.getloli.com/get/@kisuzume?theme=gelbooru" />
 </p>
 
-### Kisuzume (づ｡◕‿‿◕｡)づ
-
-- Discord API Enthusiast
-- SkriptLang Hobbyist
-- Finding Catgirls to Jerk Off On
-
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/LwSdAlE.png" />
