@@ -2,6 +2,30 @@
   <img src="https://count.getloli.com/get/@kisuzume?theme=gelbooru" />
 </p>
 
+### About Me
+
+```
+const Kisuzume = {
+    pronouns: "He" | "Him",
+    code: ["JavaScript", "TypeScript", "Python", "SkriptLang"],
+    askMeAbout: [
+        "Discord Bot Development", 
+        "Anime Soundtracks", 
+        "Anime Piano", 
+        "Tea"
+        "Genshin Impact"
+    ],
+    technologies: {
+        backEnd: {
+            js: ["Node"],
+        },
+        databases: ["MongoDB"]
+    },
+    currentFocus: "Building Discord Bots and Composing Anime Soundtracks",
+    funFact: "Boop. There's none!"
+};
+```
+
 ### Languages and Tools:
 <img align="left" alt="vscode" width="26px" src="https://i.imgur.com/LwSdAlE.png" />
 <img align="left" alt="webstorm" width="26px" src="https://resources.jetbrains.com/storage/products/webstorm/img/meta/webstorm_logo_300x300.png" />
@@ -13,3 +37,11 @@
 <img align="left" alt="mongodb" width="26px" src="https://imgur.com/xN5cFRr.png" /><br />
 
 ---
+
+<div>
+  <p align="center">
+    <b> ‌ </b>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Kisuzume&amp;show_icons=true" alt="GitHub Stats">
+  </p>
+</div>
