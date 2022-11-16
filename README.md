@@ -9,6 +9,7 @@ const Kisuzume = {
     pronouns: "He" | "Him",
     code: ["JavaScript", "TypeScript", "Python", "SkriptLang"],
     askMeAbout: ["Discord Bot Development", "Anime Soundtracks", "Anime Piano", "Tea", "Genshin Impact"],
+    ide: ["Visual Studio Code", "WebStorm", "PyCharm"],
     technologies: {
         backEnd: {
             js: ["Node"],
