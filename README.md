@@ -4,22 +4,11 @@
 
 ### About Me
 
-```
-const Kisuzume = {
-    pronouns: "He" | "Him",
-    code: ["JavaScript", "TypeScript", "Python", "SkriptLang"],
-    askMeAbout: ["Discord Bot Development", "Anime Soundtracks", "Anime Piano", "Tea", "Genshin Impact"],
-    ide: ["Visual Studio Code", "WebStorm", "PyCharm"],
-    technologies: {
-        backEnd: {
-            js: ["Node"],
-        },
-        databases: ["MongoDB"]
-    },
-    currentFocus: "Building Discord Bots and Composing Anime Soundtracks",
-    funFact: "Boop. There's none!"
-};
-```
+<div>
+  <p align="center">
+      <img src="https://imgur.com/a/qzMbxhL="630"/>
+  </p>
+</div>
 
 ### Languages and Tools:
 <img align="left" alt="vscode" width="26px" src="https://i.imgur.com/LwSdAlE.png" />
