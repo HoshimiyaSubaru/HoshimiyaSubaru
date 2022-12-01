@@ -4,12 +4,6 @@
 
 ### About Me
 
-<div>
-  <p align="center">
-      <img src="https://i.imgur.com/wTFSjBz.png="630"/>
-  </p>
-</div>
-
 ### Languages and Tools:
 <img align="left" alt="vscode" width="26px" src="https://i.imgur.com/LwSdAlE.png" />
 <img align="left" alt="webstorm" width="26px" src="https://resources.jetbrains.com/storage/products/webstorm/img/meta/webstorm_logo_300x300.png" />
