@@ -4,6 +4,8 @@
 
 ### About Me
 
+High School Discord Bot Developer, Classically-Trained Anime Pianist, and Tea Enthusiast. 
+
 ### Languages and Tools:
 <img align="left" alt="vscode" width="26px" src="https://i.imgur.com/LwSdAlE.png" />
 <img align="left" alt="webstorm" width="26px" src="https://resources.jetbrains.com/storage/products/webstorm/img/meta/webstorm_logo_300x300.png" />
