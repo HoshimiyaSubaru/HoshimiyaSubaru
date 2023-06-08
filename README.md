@@ -15,13 +15,3 @@ High School Discord Bot Developer, Classically-Trained Anime Pianist, and Tea En
 <img align="left" alt="py" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" />
 <img align="left" alt="skript" width="26px" src="https://avatars.githubusercontent.com/u/39464898?s=200&v=4" />
 <img align="left" alt="mongodb" width="26px" src="https://imgur.com/xN5cFRr.png" /><br />
-
----
-
-<div>
-  <p align="center">
-    <b> ‌ </b>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Kisuzume&amp;show_icons=true" alt="GitHub Stats">
-  </p>
-</div>
