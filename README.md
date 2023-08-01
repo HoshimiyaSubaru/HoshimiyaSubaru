@@ -4,7 +4,7 @@
 
 ### About Me
 
-Discord Bot Developer, Classically-Trained Anime Pianist, and Tea Enthusiast. 
+Former Discord Bot Developer, Classically-Trained Anime Pianist, and Tea Enthusiast. 
 
 ### Languages and Tools:
 <img align="left" alt="vscode" width="26px" src="https://i.imgur.com/LwSdAlE.png" />
